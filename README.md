@@ -1,1 +1,1 @@
-Running App Video Link:https://bit.ly/cipherschool
+live running link :https://movieapp-jalaj.netlify.app/
